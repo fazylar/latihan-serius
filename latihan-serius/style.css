@@ -1,0 +1,36 @@
+body{
+font-family: Arial;
+background:#111;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+.page{
+display:none;
+}
+
+.active{
+display:block;
+}
+
+button{
+background:#e50914;
+color:white;
+border:none;
+padding:12px 20px;
+margin-top:20px;
+cursor:pointer;
+font-size:16px;
+}
+
+select{
+display:block;
+margin:10px auto;
+padding:8px;
+}
+
+#stars{
+font-size:40px;
+margin:20px;
+}
